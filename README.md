@@ -3,7 +3,8 @@
 🔭 I’m currently working on developing a robust testng framework
 
 📫 How to reach me:
-   **Primary email :** anand_kanekal@outlook.com
+   
+   **Email :** anand_kanekal@outlook.com
 
 <!--
 **anand-kanekal/anand-kanekal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
