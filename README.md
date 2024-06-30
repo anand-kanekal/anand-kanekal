@@ -1,26 +1,16 @@
 ## Hey there 👋, I'm [Anand!](https://github.com/anand-kanekal/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anand-kanekal)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here!
 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
-
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **5** years ago.
-
-Since then I pushed **3134**+ commits, opened **229**+ issues, submitted **461**+ pull requests, created **20**+ gists and contributed to **7**+ public repositories.
+I am working as a SDET
 
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://www.animationliberty.com/assets/images/sm-video.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -91,6 +81,17 @@ Like My Work?
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
 </details>
+
+### How to Reach Me:
+
+<div align="left">
+  <a href="https://linkedin.com/in/anand-kanekal" target="_blank">  
+  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="anand_kanekal@outlook.com" target="_blank">  
+  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
 #
 
