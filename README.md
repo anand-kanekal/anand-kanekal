@@ -1,7 +1,5 @@
 ## Hey there 👋, I'm [Anand!](https://github.com/anand-kanekal/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anand-kanekal)
-
 ### Glad to see you here!
 
 I am working as a SDET
