@@ -15,7 +15,7 @@ Like My Work?
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🚀 &nbsp; I’m currently exploring Spring Boot and its capabilties etc.
 - 💬 &nbsp; Ask me anything
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: anand_kanekal@outlook.com.
@@ -54,13 +54,13 @@ Like My Work?
     <img alt="LinkedIn" title="LinkedIn" height="40" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"></a>
 
   <a href="mailto:anand_kanekal@outlook.com">  
-  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook"/></a>
+  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="ms-outlook" title="ms-outlook"/></a>
 </div>
 
 #
 
 <div align="center">
 
-### Kindly show support ❤️ by starring some of the repositories!
+### Show some love and support ❤️ by starring some of my work!
 
 </div>
