@@ -32,25 +32,35 @@ Like My Work?
 
 ### GitHub Stats & Activity:
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anand-kanekal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anand-kanekal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kanekal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-kanekal&hide_border=true"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-kanekal&hide_border=true" />
+</details>
 
 ### How to Reach Me:
 
 <div align="left">
-  <a href="https://linkedin.com/in/anand-kanekal" target="_blank">  
-  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anand_kanekal@outlook.com" target="_blank">  
-  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/anand-kanekal">
+    <img alt="LinkedIn" title="LinkedIn" height="40" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"></a>
+
+  <a href="mailto:anand_kanekal@outlook.com">  
+  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook"/></a>
 </div>
 
 #
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Kindly show support ❤️ by starring some of the repositories!
 
 </div>
