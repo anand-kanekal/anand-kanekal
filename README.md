@@ -2,7 +2,9 @@
 
 ### Glad to see you here!
 
-I am working as a SDET
+A dedicated SDET with 7+ years of experience in enhancing software quality through innovative automation and rigorous testing methodologies. I specialize in designing, developing, and implementing robust test automation frameworks and integrating DevOps practices to ensure seamless software delivery. 
+
+I'm self motivated and have never limited myself to learning.
 
 Like My Work?
 
@@ -10,25 +12,17 @@ Like My Work?
 
 <img align="right" height="250" width="375" alt="" src="https://www.animationliberty.com/assets/images/sm-video.gif" />
 
-### Talking about Personal Stuff:
+### Personal
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring Spring Boot and its capabilties etc.
-- 💬 &nbsp; Ask me anything
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: anand_kanekal@outlook.com.
+- 🛠 &nbsp; I’m currently working on developing a basic Spring Boot application.
+- 🚀 &nbsp; I’m currently exploring Spring Boot and its wonderful features etc.
+- 💻 &nbsp; I love coding and video gaming.
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
-
-### Languages and Tools:
+### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,selenium,gherkin,spring,mysql,maven,git,jenkins,postman)](https://skillicons.dev)
 
-### GitHub Stats & Activity:
+### GitHub Stats & Activity
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -45,7 +39,7 @@ Like My Work?
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-kanekal&hide_border=true" />
 </details>
 
-### How to Reach Me:
+### How to Reach Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anand-kanekal">
