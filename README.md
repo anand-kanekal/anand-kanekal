@@ -1,4 +1,6 @@
 ## Hey there 👋, I'm [Anand!](https://github.com/anand-kanekal/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-kanekal&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 ### Glad to see you here!
 
@@ -16,6 +18,7 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working on developing a basic Spring Boot application.
 - 🚀 &nbsp; I’m currently exploring Spring Boot and its wonderful features etc.
+- 🎯 &nbsp; To be the best in what I do.
 - 💻 &nbsp; I love coding and video gaming.
 
 ### Languages and Tools
