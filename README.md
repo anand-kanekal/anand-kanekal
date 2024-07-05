@@ -6,7 +6,7 @@
 
 A dedicated SDET with 7+ years of experience in enhancing software quality through innovative automation and rigorous testing methodologies. I specialize in designing, developing, and implementing robust test automation frameworks and integrating DevOps practices to ensure seamless software delivery. 
 
-I'm self motivated and have never limited myself to learning.
+I'm self motivated and committed to continuous learning and staying updated with the latest industry trends and technologies to drive innovation and efficiency.
 
 Like My Work?
 
